@@ -1,0 +1,22 @@
+{
+  "name": "first-letter-to-capital",
+  "version": "1.0.0",
+  "description": "It Converts first letter of any words or sentence from small letter to capital letter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faheem-cmd/npm_first_letter_to_capital_letter.git"
+  },
+  "keywords": [
+    "capitalize\""
+  ],
+  "author":"Mihammed Faheem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faheem-cmd/npm_first_letter_to_capital_letter/issues"
+  },
+  "homepage": "https://github.com/faheem-cmd/npm_first_letter_to_capital_letter#readme"
+}
